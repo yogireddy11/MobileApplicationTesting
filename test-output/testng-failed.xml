@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/Users/MusumYogireddy/eclipse-workspace1/MobileApplicationTesting(failed)">
+    <classes>
+      <class name="ApkTest.TestClass">
+        <methods>
+          <include name="setPermissions"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="facilityName"/>
+        </methods>
+      </class> <!-- ApkTest.TestClass -->
+    </classes>
+  </test> <!-- C:/Users/MusumYogireddy/eclipse-workspace1/MobileApplicationTesting(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
